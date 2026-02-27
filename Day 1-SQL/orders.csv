@@ -1,0 +1,7 @@
+order_id,customer_id,region,category,quantity,price
+1,C1,West,Electronics,2,500
+2,C2,East,Furniture,1,800
+3,C1,West,Furniture,3,200
+4,C3,South,Electronics,1,1000
+5,C4,East,Furniture,2,300
+6,C2,West,Electronics,1,500
